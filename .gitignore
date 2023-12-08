@@ -1,3 +1,5 @@
 
 bottle/bottle.csv
 bottle/bottle.csv.zip
+bottle/bottle_mean.csv
+bottle/bottle_no_null.csv
